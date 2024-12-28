@@ -1,4 +1,3 @@
-# ecommerce-config/user-service.yml
 spring:
   application:
     name: user-service
